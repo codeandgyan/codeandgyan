@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing some cool apps as hobby that'll help solve some real world problems
 - 🌱 I’m currently learning React, React Native, NextJS, NodeJS, NestJS and countless other tech stacks
 - 💞️ I’m love to mentor aspiring software engineers get better at coding and find a job in the field of software engineering. React, C#, .NET, Design Patterns/Design Principles are the areas I love to talk.
-- 📫 How to reach me codeandgyan@gmail.com
+- 📫 How to reach me? Shoot me an email at codeandgyan@gmail.com
 
 <!---
 codeandgyan/codeandgyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
